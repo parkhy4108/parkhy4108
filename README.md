@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parkhy4108
-- 👀 I’m interested in mobile App development, Kotlin, architecture , android sdk etc
+- 👀 I’m interested in mobile App development, Kotlin, architecture , design pattern etc
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me ... parkhy4108@gmail.com, 
 
